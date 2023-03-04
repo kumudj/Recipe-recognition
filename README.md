@@ -1,0 +1,2 @@
+In this project, we focus on applications of automatic food recognition and identify the recipe in food by using convolutional neural networks. And this model will classify images into food categories and to output a matching recipe. 
+We Build a deep learning model that can detect and classify types of dishes. A web application is integrated with the model, from where the user can upload an image of dishes and see the analyzed results on the User Interface.
